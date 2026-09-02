@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dash-social": {
+      "type": "http",
+      "url": "https://mcp.dashsocial.com/mcp"
+    }
+  }
+}

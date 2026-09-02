@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "dash-social",
+  "displayName": "Dash Social",
+  "version": "1.0.0",
+  "description": "Connect Dash Social to Claude for social media analytics, competitive intelligence, community insights, content management, and scheduling.",
+  "author": {
+    "name": "Dash Social",
+    "email": "support@dashsocial.com",
+    "url": "https://www.dashsocial.com/"
+  },
+  "homepage": "https://developer.dashsocial.com/guides/mcp-server/mcp-guide",
+  "repository": "https://github.com/dashhudson/claude-plugin",
+  "keywords": [
+    "social-media",
+    "analytics",
+    "marketing",
+    "content",
+    "mcp"
+  ]
+}
