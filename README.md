@@ -1,6 +1,6 @@
 # Dash Social for Claude
 
-Connect Claude to your Dash Social account for social media analytics, competitive intelligence, community insights, content management, and scheduling.
+Connect your brand's intelligence to surface social insights and build custom workflows.
 
 ## Requirements
 
